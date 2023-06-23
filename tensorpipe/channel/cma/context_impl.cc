@@ -8,7 +8,7 @@
 
 #include <tensorpipe/channel/cma/context_impl.h>
 
-#include <linux/prctl.h>
+//#include <linux/prctl.h>
 #include <sys/prctl.h>
 #include <sys/syscall.h>
 #include <sys/uio.h>
